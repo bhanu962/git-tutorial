@@ -1,2 +1,2 @@
-console.log('index2.js')
-console.log('version2')
+console.log('index3.js')
+console.log('version3')
